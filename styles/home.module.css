@@ -51,3 +51,10 @@
     font-weight: bold;
     box-shadow: 0 0 1em rgb(0, 0, 0);
 }
+@media (max-width: 888px){
+    .button{
+        width: 70px;
+        height: 35px;
+    }
+    
+}
